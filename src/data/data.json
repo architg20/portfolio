@@ -1,0 +1,10 @@
+[
+    {
+        "role": "Support Trainee",
+        "organisation": "Bharat Electronics Limited ",
+        "startDate": "August, 2023",
+        "endDate": "Present",
+        "experiences": ["Worked on developing Flight Simulation Software ", "Added new features such as display of Bitmaps" , "Debugging Flight Message Software"],
+        "imageSrc": "history/BEL.png"
+      }
+]

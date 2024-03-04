@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Food Order App",
+      "imageSrc": "projects/project.png",
+      "description": "I created a basic React project creating a simple responsive Food Ordering Website",
+      "skills": ["React", "JS"],
+      "demo": "https://www.github.com/architg20",
+      "source": "https://www.github.com/architg20"
+    },
+    {
+      "title": "Netflix Streaming Website",
+      "imageSrc": "projects/project.png",
+      "description": "This a website created using React Framework , i have implement few features such as User-Authentication .",
+      "skills": ["React", "Firebase"],
+      "demo": "https://www.github.com/architg20",
+      "source": "https://www.github.com/architg20"
+    },
+    {
+      "title": "Contact Manager Backend Application",
+      "imageSrc": "projects/project.png",
+      "description": "Build a Contact Manager Backend Application using Node,Express & MongoDB",
+      "skills": ["Node", "Express", "MongoDB"],
+      "demo": "https://www.github.com/architg20",
+      "source": "https://www.github.com/architg20"
+    }
+  ]
