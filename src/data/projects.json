@@ -2,7 +2,7 @@
     {
       "title": "Food Order App",
       "imageSrc": "projects/project.png",
-      "description": "I created a basic React project creating a simple responsive Food Ordering Website",
+      "description": "Created a Food Menu Website while using Redux",
       "skills": ["React", "JS"],
       "demo": "https://www.github.com/architg20",
       "source": "https://www.github.com/architg20"
@@ -10,7 +10,7 @@
     {
       "title": "Netflix Streaming Website",
       "imageSrc": "projects/project.png",
-      "description": "This a website created using React Framework , i have implement few features such as User-Authentication .",
+      "description": "This a website created using React Framework and hosted it using firebase.",
       "skills": ["React", "Firebase"],
       "demo": "https://www.github.com/architg20",
       "source": "https://www.github.com/architg20"
